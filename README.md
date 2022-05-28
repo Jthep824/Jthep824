@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jthep824
+- 👋 Hi, I’m Johnny Thephavong
 - 👀 I’m interested in the evolution that data brings, also motorcycles and snowboarding
 - 🌱 I’m currently exploring Data Analytics, SQL, Python, and Tableau
 - 💞️ I’m looking to collaborate on python coding
