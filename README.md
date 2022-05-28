@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jthep824
 - 👀 I’m interested in the evolution that data brings, also motorcycles and snowboarding
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently exploring Data Analytics, SQL, Python, and Tableau
 - 💞️ I’m looking to collaborate on python coding
 - 📫 How to reach me ... jthep824@gmail.com
 
